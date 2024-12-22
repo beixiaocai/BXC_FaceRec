@@ -1,0 +1,16 @@
+{
+  "host": "127.0.0.1",
+  "adminPort": 9101,
+  "mediaHttpPort": 9102,
+  "analyzerPort": 9103,
+  "mediaRtspPort": 9654,
+  "videoAnalyzerPort": 9655,
+  "mediaSecret": "aqxY9ps21fyhyKNRyYpGvJCTp1JBeGOM",
+  "storageDir": "FrAdmin\\static\\upload",
+  "faceDetectDevice": "GPU",
+  "faceRecognitionDevice": "GPU",
+  "faceDetectScoreThresh": 0.5,
+  "faceDetectNmsThresh": 0.5,
+  "faceRecognitionThresh": 0.76,
+  "alarmSleepMs": 1000
+}

@@ -1,0 +1,7 @@
+﻿# clion
+.idea/
+log/*
+
+# vs
+.vs
+FrMediaServer/log/*

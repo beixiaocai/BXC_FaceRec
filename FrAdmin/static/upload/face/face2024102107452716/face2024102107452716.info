@@ -1,0 +1,11 @@
+user_id=1
+code=face2024102107452716
+group_name=default
+name=kd
+custom_code=kd
+image_dir=face/face2024102107452716
+old_image_names=20241110170335.jpg,20241221180538.jpg
+image_name=20241221180538.jpg
+face_image_name=20241221180538_face.jpg
+detect_type=1
+time=2024/12/21/18/05/38

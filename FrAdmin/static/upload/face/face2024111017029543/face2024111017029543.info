@@ -1,0 +1,11 @@
+user_id=1
+code=face2024111017029543
+group_name=default
+name=靳东
+custom_code=jindong
+image_dir=face/face2024111017029543
+old_image_names=20241221180510.png,20241221180526.jpg
+image_name=20241221180526.jpg
+face_image_name=20241221180526_face.jpg
+detect_type=1
+time=2024/12/21/18/05/26
